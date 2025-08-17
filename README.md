@@ -36,3 +36,8 @@ updating an alias helps to update the usage, instead of updating the application
             
 # 5th session
 1. checked the visual creator that helps us create various workflows that working on our page.
+
+
+# hosting a website on AWS S3
+
+1. created a s3 bucket and named it after my name. ( buckets names are specific 
